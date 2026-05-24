@@ -8,7 +8,7 @@ Built for a game jam in 72 hours.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > Drop your screenshots here once you have them:
 > `![Order Scene](screenshots/order.png)`
